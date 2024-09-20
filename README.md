@@ -1,4 +1,12 @@
-# CountyApp
+# CountryApp
+
+This code was created based in Angular training course by Fernando Herrera:
+
+https://www.udemy.com/course/angular-fernando-herrera/
+
+And using free services from: 
+https://restcountries.com
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.7.
 
